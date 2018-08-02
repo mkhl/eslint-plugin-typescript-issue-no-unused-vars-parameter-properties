@@ -1,4 +1,4 @@
-# eslint-plugin-typescript issue: `no-unused-vars` warns about parameter properties
+# [eslint-plugin-typescript](https://github.com/nzakas/eslint-plugin-typescript) issue: [`no-unused-vars`](https://github.com/nzakas/eslint-plugin-typescript/blob/master/docs/rules/no-unused-vars.md) warns about parameter properties
 
 To reproduce:
 
